@@ -14,12 +14,14 @@ This is a repository that I have created to track my individual work in the Fina
 - [Learnings from this project](#Learnings-from-this-project)
 
 ## Business Problem and Project Objective :
-
+Accurate Sales Forecasting for New Stores: Maverik needs precise sales predictions for new store planning and evaluation. Daily Sales Forecast: The project aims to provide daily sales forecasts for operational planning. Adjustment for Past Performance: The model needs to adjust daily forecasts based on historical data.
+The project's primary goal is to create a forecasting solution for accurately predicting sales at new Maverik stores during their first year of operation, focusing on Inside Sales, Food Service, Diesel, and Unleaded Gasoline segments. Additionally, it aims to improve daily sales forecasts by incorporating past performance data.
 
 ## Solution to the Business Problem : 
 
 
 ## My contribution to the Project :
+Within our sales forecasting project, I helped with the Time Series Exploratory Data Analysis (EDA), meticulously unraveling intricate patterns and nuances inherent to the inside sales, food services, diesel, and unleaded sales segments. I also applied forecasting models such as ARIMA, Exponential Smoothing, and Prophet to provide predictions for future trends.
 
 ## Difficulties faced : 
 
