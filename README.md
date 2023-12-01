@@ -9,8 +9,8 @@ This is a repository that I have created to track my individual work in the Fina
 - [Business Problem and Project Objective](#Business-Problem-and-Project-Objective)
 - [Solution to the Business Problem](#Solution-to-the-Business-Problem)
 - [My contribution to the Project](#My-contribution-to-the-Project)
+- [Business Value of the Solution](#Business-Value-of-the-Solution)
 - [Difficulties faced](#Difficulties-faced)
-- [Recommended Solution](#Recommended-Solution)
 - [Learnings from this project](#Learnings-from-this-project)
 
 ## Business Problem and Project Objective :
@@ -23,9 +23,11 @@ The project's primary goal is to create a forecasting solution for accurately pr
 ## My contribution to the Project :
 Within our sales forecasting project, I helped with the Time Series Exploratory Data Analysis (EDA), meticulously unraveling intricate patterns and nuances inherent to the inside sales, food services, diesel, and unleaded sales segments. I also applied forecasting models such as ARIMA, Exponential Smoothing, and Prophet to provide predictions for future trends.
 
-## Difficulties faced : 
+## Business Value :
+By leveraging advanced predictive analytics, our goal is to accurately forecast annual and daily sales within a 25% margin of actual performance across key sales segments, even prior to a store's openeing. This system ensures a dyanamic improvement in predictions throughout the year as real sales segments, even prior to a store's opening. This system ensures a dynamic improvement in predictions throughout the year as real sales data becomes available, allowing for constant refinement and optimization. Adiitionally, our commitment extends to providing highly businesses to nechmark store performance effectively. Ultimately, this data-driven approach empowers informed decision-making, enhances operational efficiency, and maximizes overall business value.
 
-## Recommended Solution : 
+## Difficulties faced : 
+Our project encountered notable challenges. Firstly, the impact of holidays posed a significant challenge, introducing variablity that required careful consideration to ensure accurate predictions. Secondly, the presence of a small sample size posed issues, necessitating robust methodologies to mitigate potential biases and uncertainties. Additionally, the exclusion of one out of the five types of stores posed a limitation, potentially impacting the generalizability of the findings. Addressing these challenges is crucial for enhancing the reliability and effectiveness of our analysis. 
 
 ## Learnings from this project : 
 I learned a lot from this project. I learned the importance of data collection and validation, model selection, results interpretation, and teamwork. I learned how to collect data from various sources, validate data for errors and inconsistencies, select the best model for a particular dataset, interpret the results of predictive models, and work effectively as part of a team. 
