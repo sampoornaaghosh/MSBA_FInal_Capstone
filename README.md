@@ -2,7 +2,7 @@
 # SAMPOORNAA GHOSH
 
 ## Introduction 
-I am pursuing a MS in Business Analytics at David Eccles School of Business, University of Utah.
+I am pursuing an MS in Business Analytics at David Eccles School of Business, University of Utah.
 This is a repository that I have created to track my individual work in the Final Capstone Project(collaborated with Maverick) conducted together with my teammates.
 
 ## Table of contents
@@ -18,7 +18,7 @@ Accurate Sales Forecasting for New Stores: Maverik needs precise sales predictio
 The project's primary goal is to create a forecasting solution for accurately predicting sales at new Maverik stores during their first year of operation, focusing on Inside Sales, Food Service, Diesel, and Unleaded Gasoline segments. Additionally, it aims to improve daily sales forecasts by incorporating past performance data.
 
 ## Solution to the Business Problem : 
-We created a robust model that accurately forecasts annual and daily sales within a 25% margin of actual performance across key sales segments, even before a store's opening.
+We suggest an integrated solution by leveraging XGBoost for superior sales predictions, integrating with time series modeling to address seasonality. Implementing feature importance analysis for optimization and gradually replacing predicted data with actual sales will enhance accuracy. Regular model evaluations, communication, and documentation would ensure ongoing alignment with business objectives.
 
 ## My contribution to the Project :
 Within our sales forecasting project, I helped with the Time Series Exploratory Data Analysis (EDA), meticulously unraveling intricate patterns and nuances inherent to the inside sales, food services, diesel, and unleaded sales segments. I also applied forecasting models such as ARIMA, Exponential Smoothing, and Prophet to provide predictions for future trends.
