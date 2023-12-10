@@ -18,7 +18,7 @@ Accurate Sales Forecasting for New Stores: Maverik needs precise sales predictio
 The project's primary goal is to create a forecasting solution for accurately predicting sales at new Maverik stores during their first year of operation, focusing on Inside Sales, Food Service, Diesel, and Unleaded Gasoline segments. Additionally, it aims to improve daily sales forecasts by incorporating past performance data.
 
 ## Solution to the Business Problem : 
-We suggest an integrated solution by leveraging XGBoost for superior sales predictions, integrating with time series modeling to address seasonality. Implementing feature importance analysis for optimization and gradually replacing predicted data with actual sales will enhance accuracy. Regular model evaluations, communication, and documentation would ensure ongoing alignment with business objectives.
+We suggest an integrated solution by leveraging a composite model of XGBoost and Prophet for superior sales predictions, integrating with time series modeling to address seasonality. Implementing feature importance analysis for optimization and gradually replacing predicted data with actual sales will enhance accuracy. Regular model evaluations, communication, and documentation would ensure ongoing alignment with business objectives.
 
 ## My contribution to the Project :
 Within our sales forecasting project, I helped with the Time Series Exploratory Data Analysis (EDA), meticulously unraveling intricate patterns and nuances inherent to the inside sales, food services, diesel, and unleaded sales segments. I also applied forecasting models such as ARIMA, Exponential Smoothing, and Prophet to provide predictions for future trends.
